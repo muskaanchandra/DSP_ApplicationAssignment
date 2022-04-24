@@ -19,7 +19,7 @@ DWT2NN.ipynb is used to implement the DWT2NN and DWT2LSTM models
 
 The data used is closing prices from the NASDAQ index
 
-While writing our codes, we used the following sources:
+While writing our codes, we took help from the following sources:
 https://github.com/MProx/Wavelet-denoising/blob/master/wavelets.py
 and 
 https://github.com/zhoudafa08/EMD2FNN/blob/master/EMD2FNN.py
